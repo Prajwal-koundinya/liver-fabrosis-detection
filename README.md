@@ -38,7 +38,8 @@ This project is an advanced AI-based system to detect and classify liver fibrosi
 
 ### Confusion Matrix
 <p align="center">
-  <img src="https://github.com/Prajwal-koundinya/liver-fibrosis-detection/assets/confusion_matrix.png" alt="Confusion Matrix" width="600">
+  <img src="![image](https://github.com/user-attachments/assets/55bec119-9aac-492b-91da-6844072cadee)
+" alt="Confusion Matrix" width="600">
 </p>
 
 ---
