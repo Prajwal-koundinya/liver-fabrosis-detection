@@ -38,7 +38,8 @@ This project is an advanced AI-based system to detect and classify liver fibrosi
 ### **Frontend Interface**
 ### The drag-and-drop interface makes the system user-friendly and intuitive:
 <p align="center">
-  <img src="https://github.com/Prajwal-koundinya/liver-fibrosis-detection/assets/frontend.png" alt="Frontend Interface" width="600">
+  <img src="![image](https://github.com/user-attachments/assets/20a98be2-1074-4d27-a894-7f86db489499)
+" alt="Frontend Interface" width="600">
 </p>
 
 ---
