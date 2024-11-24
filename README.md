@@ -33,15 +33,7 @@ This project is an advanced AI-based system to detect and classify liver fibrosi
 
 ---
 
-## 🖥️ **Screenshots**
-
-### **Frontend Interface**
-### The drag-and-drop interface makes the system user-friendly and intuitive:
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/20a98be2-1074-4d27-a894-7f86db489499)
-" alt="Frontend Interface" width="600">
-</p>
-
+## 🖥️ ** Results screenshot**
 ---
 
 ### Confusion Matrix
@@ -51,11 +43,6 @@ This project is an advanced AI-based system to detect and classify liver fibrosi
 
 ---
 
-### Training vs Validation Accuracy
-<p align="center">
-  <img src="https://github.com/Prajwal-koundinya/liver-fibrosis-detection/assets/accuracy_plot.png" alt="Training vs Validation Accuracy" width="600">
-</p>
----
 
 ## ⚙️ **Technologies Used**
 
@@ -107,20 +94,35 @@ Navigate to the following address in your web browser to access the application:
    ```bash
    http://127.0.0.1:5000
 
+   
+---
 
 
 🔑 Results
-Our model achieved high accuracy and robust performance across all fibrosis stages, demonstrating its potential for real-world applications in liver fibrosis detection and classification.
+Our model demonstrated exceptional accuracy and robust performance across all fibrosis stages, from F0 (healthy tissue) to F4 (severe cirrhosis). By effectively handling the challenges of differentiating between early fibrosis stages such as F1, F2, and F3—which often exhibit subtle and overlapping characteristics—the model proves its reliability for clinical-grade liver fibrosis detection.
+
+Leveraging the power of the pretrained ResNet-18 architecture, combined with advanced data augmentation techniques and extensive training, the model excels in identifying key patterns within medical imaging data. The integration of a balanced dataset and careful preprocessing ensures its robustness and adaptability across various scenarios. Moreover, the use of metrics like the confusion matrix and ROC curves validates its high precision and recall across all classes, ensuring minimal misclassifications.
+
+This achievement highlights the model's potential for real-world applications, such as:
+
+Non-invasive diagnosis of liver fibrosis, reducing the need for painful and invasive biopsies.
+Early-stage detection that empowers healthcare professionals to intervene promptly, potentially halting or reversing disease progression.
+Monitoring disease progression and treatment efficacy in patients with chronic liver conditions.
+
+---
 
 ❤️ Thank You!
 Thank you for checking out our project! We hope this inspires you to explore the intersection of AI and healthcare. Feel free to reach out for questions, suggestions, or collaborations.
+
+---
 
 ## 🙌 Contributors
 Prajwal Koundinya - GitHub : https://github.com/Prajwal-koundinya
 Thilak R - GitHub : https://github.com/thilak-r
 
+---
 
-📌 Keywords
+## 📌 Keywords
 #LiverFibrosis #AIHealthcare #DeepLearning #MedicalAI #PyTorch #ResNet18 #ExplainableAI #HealthcareInnovation
 
 
