@@ -45,7 +45,7 @@ This project is an advanced AI-based system to detect and classify liver fibrosi
 
 ### Training vs Validation Accuracy
 <p align="center">
-  <img src="https://github.com/Prajwal-koundinya/liver-fibrosis-detection/assets/accuracy_plot.png" alt="Training vs Validation Accuracy" width="600">
+  <img src="https://github.com/user-attachments/assets/95490d0d-dba1-4dbc-a482-e087bc787132" alt="Training vs Validation Accuracy" width="600">
 </p>
 
 ---
