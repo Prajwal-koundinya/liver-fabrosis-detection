@@ -105,7 +105,8 @@ Navigate to the following address in your web browser to access the application:
 ---
 
 
-🔑 Results
+### 🔑 **Results**
+
 Our model demonstrated exceptional accuracy and robust performance across all fibrosis stages, from F0 (healthy tissue) to F4 (severe cirrhosis). By effectively handling the challenges of differentiating between early fibrosis stages such as F1, F2, and F3—which often exhibit subtle and overlapping characteristics—the model proves its reliability for clinical-grade liver fibrosis detection.
 
 Leveraging the power of the pretrained ResNet-18 architecture, combined with advanced data augmentation techniques and extensive training, the model excels in identifying key patterns within medical imaging data. The integration of a balanced dataset and careful preprocessing ensures its robustness and adaptability across various scenarios. Moreover, the use of metrics like the confusion matrix and ROC curves validates its high precision and recall across all classes, ensuring minimal misclassifications.
@@ -118,7 +119,7 @@ Monitoring disease progression and treatment efficacy in patients with chronic l
 
 ---
 
-❤️ Thank You!
+## ❤️ Thank You!
 Thank you for checking out our project! We hope this inspires you to explore the intersection of AI and healthcare. Feel free to reach out for questions, suggestions, or collaborations.
 
 ---
