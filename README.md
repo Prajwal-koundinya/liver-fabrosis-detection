@@ -66,17 +66,32 @@ This project is an advanced AI-based system to detect and classify liver fibrosi
 
 ---
 
-## 📂 **Folder Structure**
+## 📂 Folder Structure
 
-.
-├── app.py                # Flask app for the project
-├── model.pth             # Trained PyTorch model
-├── dataset/              # Folder containing the liver fibrosis dataset
-├── templates/            # Contains HTML frontend files
-├── static/               # CSS, JavaScript, and images for the frontend
-├── images/               # Screenshots, confusion matrix, and accuracy plots
-└── README.md             # Project documentation
+The following is the organized folder structure of this project:
 
+- **app.py**  
+  The main Flask application file for running the project.
+
+- **model.pth**  
+  Pretrained PyTorch model for predictions.
+
+- **dataset/**  
+  Contains the liver fibrosis dataset required for training and evaluation.
+
+- **templates/**  
+  HTML files for the frontend of the web application.
+
+- **static/**  
+  Stores static assets like CSS, JavaScript, and image files used in the frontend.
+
+- **images/**  
+  Screenshots of the application, confusion matrix, and accuracy/loss plots for visualization.
+
+- **README.md**  
+  The project documentation file you are currently reading.
+
+This structure ensures easy navigation and modularity for contributors and users.
 
 ---
 
